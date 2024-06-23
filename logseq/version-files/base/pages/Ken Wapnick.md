@@ -1,0 +1,8 @@
+- #ACIM #[[Non-dual spirituality]] #spirituality
+- Workshops
+	- MP3 purchased
+		- [Special Relationships – Parts 1 & 2](https://facimstore.org/products/special-relationships-mp3)
+		- [The Pathway of "A Course in Miracles": From Spirituality to Mysticism](https://facimstore.org/products/the-pathway-of-a-course-in-miracles-from-spirituality-to-mysticism-mp3)
+		- [On Death and Dying: Ending, Continuing, or Awakening?](https://facimstore.org/products/on-death-and-dying-ending-continuing-or-awakening-mp3)
+		- [Entering God's Presence](https://facimstore.org/products/entering-gods-presence-mp3)
+		-

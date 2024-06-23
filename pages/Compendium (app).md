@@ -1,0 +1,3 @@
+- #software #KMI
+- [[Knowledge Media Intitute]]
+- turn every meeting into a diagrammed discussion

@@ -1,0 +1,4 @@
+- #metaphysics #Metamechanica #spacetime #physics #[[Philosophy of Mind]]
+- [Home | Essentia Foundation](https://www.essentiafoundation.org/)
+- #[[Bernardo Kastrup]]
+-

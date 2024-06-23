@@ -1,0 +1,8 @@
+alias:: Tiwanako, Tiwanaco
+tags::
+place::
+country:: [[Bolivia]] 
+place-type:: #[[ancient site]] 
+nearest-town::
+map-url::
+-

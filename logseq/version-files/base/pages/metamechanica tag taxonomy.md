@@ -1,0 +1,102 @@
+- Person
+	- [[keyThinker]]
+	- [[collaborator]]
+	- [[academic]]
+	- [[author]]
+	- [[independent researcher]]
+	- [[keyActor]]
+	- [[filmmaker]]
+	- [[leader]]
+	- [[activist]]
+	- [[actor]]
+	- [[critic]]
+	- [[keyStakeholder]]
+	- [[mystic]]
+	- [[political figure]]
+	- [[artist]]
+	- [[scientist]]
+		- [[religious scientist]]
+		- [[natural scientist]]
+		- [[computer scientist]]
+	- [[computer programmer]]
+	- [[inventor]]
+	- [[medical doctor]]
+		- [[psychiatrist]]
+			- [[neuropsychiatrist]]
+			-
+- Place
+	- Region
+		- Country
+			- City
+			- Town
+			- District
+			- State
+	- Lat-Long
+	- map-URL
+- Organisation
+	- [[non-profit]]
+	- [[NGO]]
+	- [[academia]]
+	- [[thinktank]]
+	- [[corporation]]
+	-
+- [[Resources & References]]
+	- [[book]]
+	- [[article]]
+	- [[blog]]
+	- [[movie]]
+	- [[video]]
+	- [[documentary]]
+	- [[podcast-vodcast]]
+	-
+- Topics - [[metamechanica fields, domains and topics]]
+	- {{embed [[metamechanica fields, domains and topics]]}}
+- Object
+- myActivityType
+	- [[toWrite]]
+	- [[toBuy]]
+	- [[toRead]]
+	- [[toSummarise]]
+	- [[toMap]]
+	- [[toDesign]]
+	- [[toEdit]]
+	- [[toUpdate]]
+	-
+- Status
+	- [[IN-PROGRESS]]
+	- [[complete]]
+	- [[backlog-queue]]
+	- [[next in queue]]
+-
+- Tools
+	- [[software]]
+	- [[Artificial Intelligence]]
+	- [[mental models]]
+	- [[conceptual framework]]
+	- [[procedure]]
+- [[My Creations]]
+	- [[MyBlog]]
+	- [[My Books]]
+	- [[MyArticle]]
+	- [[myIdea]]
+	- [[myWebsite]]
+- Argumentation and Reasoning
+	- [[claim]]
+	- [[counter-claim]]
+	- [[evidence]]
+	- [[counter-evidence]]
+	- [[thesis]]
+	- [[hypothesis]]
+	- [[premise]]
+	- [[assertion]]
+	- [[postulate]]
+	- [[assumption]]
+- Patterns
+	- [[metaphor]]
+	- [[model]]
+	- [[framework]]
+	- [[archetype]]
+	- [[abstraction]]
+	- [[generalization]]
+	-
+-

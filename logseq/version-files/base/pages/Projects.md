@@ -1,0 +1,22 @@
+alias:: project, myProject, my project, my projects
+
+- [[The Metamechanic]]
+- [[Metamechanica]]
+- [[ACIM Transcription & Translation]]
+-
+- [[EFA]]
+- [[DiaGnosis]]
+- [[Inner Beginner]]
+- [[X-C Communities]]
+-
+- [[Futures & Foresight Education]]
+- [[Fresh Alternatives]]
+- [[Global Effort]]
+- [[Adam's Atlas: An Archive of Atlantis, Ancient Anomaly and Amnesia]]
+-
+- [[Australian New Energy Organisation]]
+- [[Behind, Below, Beyond]]
+- [[Metamechanical AI]]
+- [[Coherence app]]
+- [[My Year Without Fear]]
+- [[Array Attire]]

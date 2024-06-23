@@ -1,0 +1,8 @@
+-
+- Aspirations and Visions
+	- A caring, concerted, capable community
+	- An independent, sustainable organisation
+	- Yes, we have an agenda. May we stay true to that as we collaborate with like-minded organisations and individuals, in the face of competing and conflicting messages.
+	- Insight. Illumination. Information.
+	- A hub for visualised data by problem, topic, region, solution, level. A deep, clear view into complex, layered issues. A map for the maze of muchness.
+	- Simple, coherent, engaging, uplifting message

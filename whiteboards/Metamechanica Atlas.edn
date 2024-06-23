@@ -1,0 +1,231 @@
+{:blocks (
+{:block/created-at 1713595707983
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "DiaGnosis"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a7d27840-fedd-11ee-99ab-a5420749829c"
+:noFill false
+:point [184 168]
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:collapsedHeight 1946.0001220703125
+:nonce 1713593845261}}
+:block/updated-at 1713595707983} 
+{:block/created-at 1713595753653
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "EFA"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "bdd03330-fedd-11ee-99ab-a5420749829c"
+:noFill false
+:point [992 0]
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:collapsedHeight 793
+:nonce 1713593882215}}
+:block/updated-at 1713595753653} 
+{:block/created-at 1713594058421
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Inner Beginner"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 530]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0472a0c0-fede-11ee-99ab-a5420749829c"
+:noFill false
+:point [320 464]
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:collapsedHeight 530
+:nonce 1713594000659}}
+:block/updated-at 1713594058421} 
+{:block/created-at 1713594035835
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "Fresh Alternatives"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "11bb5ab0-fede-11ee-99ab-a5420749829c"
+:noFill false
+:point [1120 448]
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:collapsedHeight 865
+:nonce 1713594022883}}
+:block/updated-at 1713594035835} 
+{:block/created-at 1713594102433
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "X-C Communities"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 3247]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2b89f3c0-fede-11ee-99ab-a5420749829c"
+:noFill false
+:point [848 592]
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:collapsedHeight 3247
+:nonce 1713594066181}}
+:block/updated-at 1713594102433} 
+{:block/created-at 1713595707990
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "Metamechanica"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "45bec8b0-fede-11ee-99ab-a5420749829c"
+:noFill false
+:point [728 320]
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:collapsedHeight 4637
+:nonce 1713594110150}}
+:block/updated-at 1713595707990} 
+{:block/created-at 1713595755719
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "How do the two relate?"
+:id "01e25c22-fee2-11ee-99ab-a5420749829c"
+:fontWeight 400
+:noFill true
+:point [470.21 40.87]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 126.13]
+:bindingId "01e25c20-fee2-11ee-99ab-a5420749829c"}
+:end 
+{:id "end"
+:canBind true
+:point [517.79 0]
+:bindingId "01e25c21-fee2-11ee-99ab-a5420749829c"}}
+:decorations 
+{:end "arrow"}
+:parentId "661a5fad-6f35-44df-bca4-47929665df68"
+:nonce 1713595714568
+:italic false}}
+:block/updated-at 1713595755719})
+:pages (
+{:block/uuid #uuid "661a5fad-6f35-44df-bca4-47929665df68"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "661a5fad-6f35-44df-bca4-47929665df68"
+:name "metamechanica atlas"
+:bindings 
+{:01e25c20-fee2-11ee-99ab-a5420749829c 
+{:id "01e25c20-fee2-11ee-99ab-a5420749829c"
+:type "line"
+:fromId "01e25c22-fee2-11ee-99ab-a5420749829c"
+:toId "a7d27840-fedd-11ee-99ab-a5420749829c"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:01e25c21-fee2-11ee-99ab-a5420749829c 
+{:id "01e25c21-fee2-11ee-99ab-a5420749829c"
+:type "line"
+:fromId "01e25c22-fee2-11ee-99ab-a5420749829c"
+:toId "bdd03330-fedd-11ee-99ab-a5420749829c"
+:handleId "end"
+:point [0.35 0.21]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("a7d27840-fedd-11ee-99ab-a5420749829c" "bdd03330-fedd-11ee-99ab-a5420749829c" "0472a0c0-fede-11ee-99ab-a5420749829c" "11bb5ab0-fede-11ee-99ab-a5420749829c" "2b89f3c0-fede-11ee-99ab-a5420749829c" "45bec8b0-fede-11ee-99ab-a5420749829c" "01e25c22-fee2-11ee-99ab-a5420749829c")}}
+:block/updated-at 1713595755719
+:block/created-at 1713004461866
+:block/type "whiteboard"
+:block/name "metamechanica atlas"
+:block/original-name "Metamechanica Atlas"})}

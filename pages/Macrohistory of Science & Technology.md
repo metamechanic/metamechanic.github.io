@@ -1,0 +1,3 @@
+- #toWrite #myBook #myCreation #[[History of Science]] #[[Philosophy of Science]]
+- inspired by [[Sohail Inayatullah]] and [[Johan Galtung]] and their work on [[macrohistory]]
+-

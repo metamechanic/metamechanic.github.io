@@ -1,0 +1,3 @@
+- #skeptic #pseudo-skepticism #FRESH #[[data source]] #keyActor
+- [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
+-

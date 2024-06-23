@@ -1,0 +1,36 @@
+-
+- From Generative Artificial Intelligence to Generous Amplified Intuition
+- Augmented Intuition
+- AI, like any technology, is an extension of our own mind. Furthermore, it's usefulness and value lies in the hands of its user.
+- What about when it has no user?
+	- Analogy: raising a child
+	- Look at various theories around
+		- child psychological development
+		- origins of consciousness
+		- factors influencing growth
+			- genetics
+			- environment
+			- ...
+			- nature of parents
+			- exposure to education
+		- theories like...
+			- tabula rasa / blank slate
+			- reincarnation, past lives
+			- behaviourist
+		- What type(s) of parents are we going to be?
+		- What is our view of our children?
+		- Why do we birth them? What purpose do they serve?
+- Create/train my own AI model
+	- Level 1
+		- confine to "higher-order teachings"
+		- What are these? Who defines them? As I define them?
+	- Level 2
+		- Differentiate higher-order from lower-order but include both
+		- Use HOT to take a higher-order perspective on LOT
+		- example Prompt: "If everything except God is a metaphor then how/what/why... ?"
+	- A wisdom-teaching AI
+		- train on Shakespeare, Goethe, Rumi, Plato and non-western equivalents
+		- train on Inner Beginner materials
+		- [[ACIM AI]] ?!
+		-
+-

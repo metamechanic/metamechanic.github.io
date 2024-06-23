@@ -1,0 +1,5 @@
+- #falseflag #usa #cuba
+- [northwoods.pdf](https://nsarchive2.gwu.edu/news/20010430/northwoods.pdf)
+- [Operation Northwoods - Wikipedia](https://en.wikipedia.org/wiki/Operation_Northwoods)
+-
+-

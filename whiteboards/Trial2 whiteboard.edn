@@ -1,0 +1,152 @@
+{:blocks (
+{:block/created-at 1703772654110
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "software, apps & web services i may use & learn"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d9a1bef0-a58a-11ee-a7ee-01c3cbecb6d7"
+:noFill false
+:isLocked false
+:point [232.5 341.5]
+:parentId "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:collapsedHeight 2501
+:nonce 1703772627049}}
+:block/updated-at 1703772654110} 
+{:block/created-at 1703772660896
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "knowledge management"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 259.0000534057617]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "edbcb020-a58a-11ee-a7ee-01c3cbecb6d7"
+:noFill false
+:isLocked false
+:point [789.8962499999998 603.6412499999999]
+:parentId "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:collapsedHeight 0
+:nonce 1703772660771}}
+:block/updated-at 1703772660896} 
+{:block/created-at 1703772668072
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "Trial text"
+:id "edbd4c60-a58a-11ee-a7ee-01c3cbecb6d7"
+:fontWeight 400
+:noFill true
+:point [464 382.5]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "edbd4c61-a58a-11ee-a7ee-01c3cbecb6d7"}
+:end 
+{:id "end"
+:canBind true
+:point [325.67 217.14]
+:bindingId "edbd4c62-a58a-11ee-a7ee-01c3cbecb6d7"}}
+:decorations 
+{:end "arrow"}
+:parentId "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:nonce 1703772660786
+:italic false}}
+:block/updated-at 1703772668072} 
+{:block/created-at 1704358992014
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "Trial 1 whiteboard"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [232 220]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e3821e0-aae0-11ee-ac19-3f8168c9b4ba"
+:noFill false
+:point [248 648]
+:parentId "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:collapsedHeight 0
+:nonce 1704358978374}}
+:block/updated-at 1704358992014})
+:pages (
+{:block/uuid #uuid "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:name "trial2 whiteboard"
+:bindings 
+{:edbd4c61-a58a-11ee-a7ee-01c3cbecb6d7 
+{:id "edbd4c61-a58a-11ee-a7ee-01c3cbecb6d7"
+:type "line"
+:fromId "edbd4c60-a58a-11ee-a7ee-01c3cbecb6d7"
+:toId "d9a1bef0-a58a-11ee-a7ee-01c3cbecb6d7"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:edbd4c62-a58a-11ee-a7ee-01c3cbecb6d7 
+{:id "edbd4c62-a58a-11ee-a7ee-01c3cbecb6d7"
+:type "line"
+:fromId "edbd4c60-a58a-11ee-a7ee-01c3cbecb6d7"
+:toId "edbcb020-a58a-11ee-a7ee-01c3cbecb6d7"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("d9a1bef0-a58a-11ee-a7ee-01c3cbecb6d7" "edbcb020-a58a-11ee-a7ee-01c3cbecb6d7" "edbd4c60-a58a-11ee-a7ee-01c3cbecb6d7" "0e3821e0-aae0-11ee-ac19-3f8168c9b4ba")}}
+:block/updated-at 1704358992014
+:block/created-at 1703772620203
+:block/type "whiteboard"
+:block/name "trial2 whiteboard"
+:block/original-name "Trial2 whiteboard"})}

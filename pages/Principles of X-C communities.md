@@ -1,0 +1,28 @@
+-
+- #+BEGIN_TIP
+  Not only is content curated, the community is curated.
+  #+END_TIP
+-
+- Not all ideas are equal. There is a hierarchy of ideas.
+	- All people are equal in value. Please participate with respect, kindness, patience and compassion.
+	- Not all learning is equal.
+- Pointing out flaws in others?
+- The person is not the idea. The idea is not the person.
+	-
+- Folded outline writing
+- [[WiKID pyramid]]
+- The debates and discussions within the community becomes content for the community outside.
+- When an opinion is articulated, opposing and alternative views should be mapped by the same author/author group prior to broader discussion and publication.
+- Where possible,
+- Aspirationally-based in [[Non-dual spirituality]]
+- [[Pillars, Principles, Levers and Lenses]] of [[Metamechanica]]
+- Emphasis on visual knowledge, graphic organisers, knowledge cartography, infographics
+- Opinions are welcome. Dispassion and detachment encouraged.
+- [[Holistic Health & Wholeistic Wealth]]
+- Information inundation & knowledge nutrition.
+	- We are overwhelmed with information. Which is important? Useful? Valuable?
+		- What is information and knowledge for?
+		-
+	- How do we make sense of the overshelming mess?
+		- with some kind of order, structure, map
+	-

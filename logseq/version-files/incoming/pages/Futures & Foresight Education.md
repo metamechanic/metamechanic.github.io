@@ -1,0 +1,3 @@
+alias:: ffed, Futures Education, FF-ed, FFed
+-
+	-

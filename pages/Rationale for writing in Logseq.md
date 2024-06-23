@@ -1,0 +1,5 @@
+-
+- Heavily influenced by [[information overload]] and [[Knowledge Nutrition]]
+	- {{embed [[information overload]]}}
+	- {{embed [[Knowledge Nutrition]]}}
+	-

@@ -1,0 +1,4 @@
+- [Chiara Marletto](https://www.chiaramarletto.com/)
+- [[Constructor Theory]]
+	- [Home - Constructor Theory](https://www.constructortheory.org/)
+-

@@ -1,0 +1,7 @@
+alias::
+author:: [[Rupert Sheldrake]] 
+publication-year::
+tags:: book, reference, psi, #[[Philosophy of Science]]
+project:: [[X-Science]] 
+public:: true
+-

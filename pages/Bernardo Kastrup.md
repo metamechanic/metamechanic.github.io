@@ -1,0 +1,5 @@
+- #[[Philosophy of Mind]] #[[Materialist Science]] #[[Artificial Intelligence]] #keyThinker
+- see [[Manifesto for a Postmaterialist Science]]
+- [Metaphysical Speculations](https://www.bernardokastrup.com/)
+-
+-

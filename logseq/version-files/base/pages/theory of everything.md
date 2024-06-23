@@ -1,0 +1,6 @@
+alias:: t.o.e, theories of everything
+-
+- Who are the
+- [[Ken Wilber]]
+- [[P.R.Sarkar]]
+- who else?

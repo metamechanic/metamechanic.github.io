@@ -1,0 +1,7 @@
+-
+- Gardening this knowledge graph [[mm-ls]]
+- Set priorities for the week
+	- toWrite
+	- toRead
+	- toDiscover
+	- Project

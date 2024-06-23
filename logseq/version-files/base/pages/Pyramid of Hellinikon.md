@@ -1,0 +1,8 @@
+alias::
+tags::
+place::
+country:: #Greece 
+place-type:: #[[ancient site]] 
+nearest-town::
+map-url::
+-

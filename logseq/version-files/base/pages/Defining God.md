@@ -1,0 +1,19 @@
+-
+- [[God, "God", god and gods]]
+	- {{embed [[God, "God", god and gods]]}}
+- Define "define" and "definition"
+-
+- Cop-out straw-man definitions
+	- Biblical father-Time vengeful wrathful
+- Generic characteristics
+	- Creator
+	- Perfect
+	- Love
+	- Omniscient
+	- Omnipotent
+	- Benign
+	- Whole; One; Unity; Unified
+	- Peace
+- Debateable characteristics
+	- Judgmental
+	-

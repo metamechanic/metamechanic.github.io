@@ -1,0 +1,8 @@
+alias::
+tags:: #megalith 
+place::
+country:: #Micronesia or #Palau ? 
+place-type:: #[[ancient site]] 
+nearest-town::
+map-url::
+-

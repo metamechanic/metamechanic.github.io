@@ -1,0 +1,33 @@
+- #QTS: [[What is the difference between ontology and taxonomy?]]
+	- is that an ontology includes relationships between named entities?
+- contrast [[metamechanica tag taxonomy]]
+- MM organisation and administration
+	- Activity types
+- Do I really need an ontology or taxonomy for each project? No, I think. However, it could be useful to develop ontotax for fields which could be used by others:
+	- [[Energy ontology]]
+	- [[Futures ontology]]
+	- [[Fresh Alternatives ontology]]
+	- [[Ideas ontology]]
+	-
+- To obtain and replicate:
+	- [[People ontology]]
+	- [[Organisations ontology]]
+	- [[Disciplines, Fields & Topics]]
+	- [[Media Resources ontology]]
+	- [[Argumentation ontology]]
+- {{embed [[Relationships ontology]]}}
+- Ideas
+- Processes (are the relationships?)
+- Entitities
+	- People
+	- Organisations
+	- Products
+		- Media
+- #+BEGIN_IMPORTANT
+  Be careful of locating 'Technology' or 'Tools' in my ontology. I re-define these terms to include everything eg. ideas, language, the body etc.
+  #+END_IMPORTANT
+-
+- Philosophical frameworks
+- [[X-C ontology]]
+	- {{embed [[X-C ontology]]}}
+-

@@ -1,0 +1,7 @@
+- contrast: [[Metamechanica]]
+- contrast: [[TremenDuus]], [[Duus Sensei]], [[Meduusa]], [[Energenii]], [[Bogansattva]]
+-
+- disambiguation of [[Metamechanica]]
+	- https://en-academic.com/dic.nsf/enwiki/588674
+	- [Meta Mechanics | Groningen - mechanical metamaterials](https://www.metamechanics.net/)
+-

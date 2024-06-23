@@ -1,0 +1,3 @@
+- this is fundamental to [[Fresh Alternatives]]
+- contrast-with:: [[There is no hierarchy of illusions]]
+-

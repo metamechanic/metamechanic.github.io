@@ -1,0 +1,12 @@
+- contrast: [[metamechanics]]
+- contrast: [[TremenDuus]], [[Duus Sensei]], [[Meduusa]], [[Energenii]], [[Bogansattva]]
+- [[Pillars, Principles, Levers and Lenses]]
+  collapsed:: true
+	- [[MacroScience]] & [[MetaTechnology]]
+	- [[Futures, Foresight & Time Tools]]
+	- [[Visual Knowledge]] & [[Information Geometry]]
+	- [[Wicked Problems]] & [[Social Messes]]
+	- [[Holistic Health & Wholeistic Wealth]]
+	-
+-
+-

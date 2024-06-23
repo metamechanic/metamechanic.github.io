@@ -1,0 +1,46 @@
+- David Wilcock
+- [[Jim Dator]]
+- [[Johan Galtung]]
+- [[Richard Slaughter]]
+- [[Peter Ellyard]]
+- [[Peter Bishop]]
+- [[Marcus Anthony]]
+- [[Dean Radin]]
+- [[Bruce Lipton]]
+- [[Nassim Haramein]]
+- [[Society for Scientific Exploration]]
+- [[Institute of Noetic Sciences]]
+- [[Colin Wilson]]
+- [[Rand Flem Ath]]
+- [[Graham Hancock]]
+- [[Doug Kenyon]]
+- [[David Childress]]
+- [[Michael Cremo]]
+- [[Robert Bauval]]
+- [[John Hoagland]]
+- Fresh Alternatives
+- [[Ingo Swann]]
+- [[remote viewing]]
+- [[psi]]
+- Michael Cremo. Forbidden and alternative history, evolution
+- [[Bill Tiller]]
+- [[Institute for PsychoEnergetic Science]]
+- [[Sacred Economics]] . [[Charles Eisenstein]] ?
+- [[Henry George]] . Progress and Poverty. Prosper Australia
+-
+- http://www.prosper.org.au/about/geoists-in-history/
+-
+- Owning our future. Book. Generative economy. Marjorie Kelly.
+- [[Generative economy]]
+- Heart v Brain dominance
+- [[Institute of HeartMath]]
+- Heart ->Brain -> Body. Not: Brain->Heart->Body
+- [[psychobiology]]
+- [[Roland McGraty]] .
+- Recurrent feedback
+- Professor [[Gary Schwartz]] . University of Arizona
+- [[Holonomic brain theory]]
+- [[David Bohm]]
+-
+- [[Holomovement]] . [[Implicate Order]]
+-

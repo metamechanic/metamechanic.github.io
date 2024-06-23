@@ -1,0 +1,19 @@
+- [[MetaMechanic Dashboard]]
+- [[metamechanica tag taxonomy]]
+- [[old-notes]] to be incorporate and processed
+	-
+	- [[TBX notes on Global Effort]]
+	-
+	- [[TBX notes on Fresh Alternatives]]
+	- [[TBX notes on Inner Beginner]]
+	- [[Another M-Theory]]
+	- [[TBX notes on ANEO]]
+	- [[TBX notes on DiaGnosis]]
+	- [[Information mapping tool ideas]]
+	-
+	-
+	-
+	- [[InnerBeginner.info Site Map with Content]]
+	- [[Manifesto for a Postmaterialist Science]]
+	-
+-

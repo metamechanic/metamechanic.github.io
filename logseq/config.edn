@@ -15,8 +15,8 @@
 
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
- :default-templates
- {:journals ""}
+ ;; :default-templates
+ ;; {:journals "journals-template"}
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
@@ -35,6 +35,7 @@
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
  ;; :publishing/all-pages-public? true
+ ;; :publishing/all-pages-public? true
 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
@@ -49,6 +50,7 @@
  ;; :default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
+  :default-home {:page "+Home+Start+", :sidebar ""}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
 
@@ -90,7 +92,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:go/backward "meta+left", :go/forward "meta+right"}
+ :shortcuts {:go/forward "meta+close-square-bracket", :go/backward "meta+open-square-bracket"}
 
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
@@ -114,7 +116,7 @@
                        [?p :block/journal-day ?d]
                        [(>= ?d ?start)]
                        [(<= ?d ?today)]]
-    :inputs           [:14d :today]
+    :inputs           [:365d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
@@ -124,14 +126,33 @@
                  :in $ ?start ?next
                  :where
                  [?h :block/marker ?marker]
-                 [(contains? #{"NOW" "LATER" "TODO"} ?marker)]
+                 [(contains? #{"NOW" "LATER" } ?marker)]
                  [?h :block/ref-pages ?p]
                  [?p :block/journal? true]
                  [?p :block/journal-day ?d]
                  [(> ?d ?start)]
                  [(< ?d ?next)]]
-    :inputs     [:today :7d-after]
-    :collapsed? false}]}
+    :inputs     [:today :27d-after]
+    :collapsed? false}
+   
+  {:title            "🔨 TODO"
+    :query            [:find (pull ?h [*])
+                       :in $ ?start ?today
+                       :where
+                       [?h :block/marker ?marker]
+                       [(contains? #{"TODO"} ?marker)]
+                       [?h :block/page ?p]
+                       [?p :block/journal? true]
+                       [?p :block/journal-day ?d]
+                       [(>= ?d ?start)]
+                       [(<= ?d ?today)]]
+    :inputs           [:800d :today]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
+    :collapsed?       true}
+   
+   ]}
 
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
@@ -159,9 +180,15 @@
  ;; With the default value of level 2, `b` will be collapsed.
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
  :ref/default-open-blocks-level 2
- :journal/page-title-format "MMM do, yyyy"
+ :journal/page-title-format "dd-MM-yyyy"
  :ui/show-brackets? false
- :favorites ["software, apps & web services i use, like & learn" "Task Master" "Questions To Self"]
+ :favorites ["Projects" "metamechanic dashboard" "+home+start+" "phase 1 mm" "metamechanica tag taxonomy" "phase 0 mm" "tasks" "phase 1 writing for metamechanic" "guidance to self" "+start+" "+start" "+map" "task master"]
+ :feature/enable-timetracking? false
+ :feature/enable-flashcards? false
+ :publishing/all-pages-public? true
+ :feature/enable-whiteboards? true
+ :editor/logical-outdenting? true
+ :editor/preferred-pasting-file? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -173,3 +200,6 @@
  ;; E.g. #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
  }
+;; added code from https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185
+;; in order to make logseq play nice with obsidian
+:page-name-order "file"

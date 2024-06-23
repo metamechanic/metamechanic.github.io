@@ -1,0 +1,7 @@
+- #toWrite #[[My Books]] #Metamechanica #myCreation #Metamechanica #toWrite
+- About how the world solves problems, only to have more problems appear.
+- The way we solve problems creates more problems, or at least sustains the creation of problems.
+- A chicken-egg situation -> Chasing our own tail
+- The “tale” part…. Is the story we tell ourselves.
+- What is our story? To ourselves. To each other.
+-

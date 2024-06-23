@@ -1,0 +1,12 @@
+- Project management: focus tasks for the week
+	- Reading
+	- Writing
+	- Webdev
+	- Study
+	- ACIM TT
+- Gardening this knowledge graph [[mm-ls]]
+- Set priorities for the week
+	- #toWrite
+	- #toRead
+	- #toDiscover #toFind
+	- Project

@@ -1,0 +1,10 @@
+alias::
+tags::
+place::
+country:: [[Peru]] 
+place-type:: [[ancient site]] 
+nearest-town::
+map-url::
+
+-
+-

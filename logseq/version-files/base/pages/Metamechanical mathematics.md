@@ -1,0 +1,7 @@
+- Add a positive
+- More of the good stuff. Increase levers.
+- Subtract a negative
+- Less of the deleterious. Remove obstacles.
+- How do you help a brother up?
+- Offer him a hand.
+- Take your foot of his throat.

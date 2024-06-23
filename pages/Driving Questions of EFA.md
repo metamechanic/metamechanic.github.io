@@ -1,0 +1,15 @@
+- The impetus driving EFA can be encapuslated through some basic questions, some of which you may have asked yourself before, in one way or another…
+	- Why don’t they have enough? (food, water etc.) Why don’t I have enough?! (money, time, sex, status, satisfaction etc)
+	- Is there actually enough for everyone? For all us? And the planet too?
+	- Enough of what? Everything? Or just some things?
+	- What does the data say? Whose data is it? What assumptions are made? What biases are inherent? What is an alternative interpretation of the data?
+	- If there is enough for all at a top-level, why do some go hungry, malnourished, impoverished? Why do some at the lower levels (geographically, socially, economically etc) not have enough? Why are some homeless, landless and materially insecure?
+	- For those with the basics, why are so many unhappy, unhealthy, unhelpful, unholy? Why are so many depressed, addicted, overdosing and suicidal?
+	- If, at the top-level, there is not enough for all then why not? Is it universal law, a fact of nature, systemic failure, intentionally manufactured so, carelessness, other?
+	- Is the world intrinsically for the have’s, the have-not’s and have more’s? Does anyone espouse this? Who?
+	- How can we ensure that everyone has enough of everything? What tools, systems and policies can or should be used? Do they exist already? Are they adequately utilised? Over-utilised? Improperly or incompetently utilised?
+	- How much is enough? Who says? What determines?
+	- Should we attempt to ensure everyone has enough? Is there a moral imperative? A spiritual duty? An altruistic feel-good factor? An economic advantage? Would everyone benefit from everyone else having enough? Do some have to suffer for others to prosper?
+	- When we are looking for ‘enough’, what are we really looking for? What do we really want?
+	- EFA starts out with some basic intuitions and hypotheses around these questions, and recogises some philosophical, epistemological and ideological positions in formulating these.
+-

@@ -1,0 +1,15 @@
+-
+- [[webBook vs eBook vs htmlBook]]
+- Possible publishing or production platforms
+	- [[Ghost]]
+	- [[Gitbooks]]?
+	- [[iBooks]]
+	- [[R markdown]]
+- Requirements for webBook
+	- Folded reading / outline reading
+	- Read longform prose format or data chunks (blocks, sections)
+	- See storymap
+	- dynamic content
+		- data visualizations
+	- check for broken links to data sources
+-

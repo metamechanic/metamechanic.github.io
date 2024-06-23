@@ -1,0 +1,22 @@
+-
+- see also: [[Metamechanic Mycelium]]
+-
+- "mesh" definitions
+	- noun
+	- verb
+- "mesh" functions
+	- filter
+	- reinforce
+- [[EFA]]
+- [[MetaMechanic]] & [[Metamechanica]]
+- [[DiaGnosis]]
+- [[Another M-Theory]]
+- [[Array Attire]]
+- [[Behind, Below, Beyond]]
+- [[Global Effort]]
+- [[Inner Beginner]]
+- [[Australian New Energy Organisation]]
+- [[Fresh Alternatives]]
+- [[FORCK]]
+- [[Futures & Foresight Education]]
+-

@@ -1,0 +1,2 @@
+-
+- [Home - The Effortless Academic](https://effortlessacademic.com/)

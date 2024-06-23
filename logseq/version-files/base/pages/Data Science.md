@@ -1,0 +1,4 @@
+-
+- [[Udemy]] Data Science #course
+- Data Science on [[MetaMemory]] #course
+-

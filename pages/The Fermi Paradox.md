@@ -1,0 +1,8 @@
+-
+- Solutions to the Fermi Paradox
+	- [Five Solutions to the Fermi Paradox | BBVA OpenMind](https://www.bbvaopenmind.com/en/science/physics/five-solutions-to-the-fermi-paradox/)
+	- [The Great Filter: A possible solution to the Fermi Paradox | Astronomy.com](https://astronomy.com/news/2020/11/the-great-filter-a-possible-solution-to-the-fermi-paradox)
+	- [The Sustainability Solution to the Fermi Paradox](https://arxiv.org/pdf/0906.0568.pdf)
+	- [The Fermi Paradox, Where Are All the Aliens? (Infographic)](https://futurism.com/10-solutions-to-the-fermi-paradox)
+	- [5 Answers to the Question: Why Haven't We Made Contact Yet? | Gaia](https://www.gaia.com/article/fermi-paradox-why-havent-we-made-contact-yet?utm_source=google+paid&utm_medium=cpc&utm_term=&utm_campaign=1-INTL-DYNAMIC-SEARCH&utm_content=UFOs&gclid=CjwKCAiAvOeQBhBkEiwAxutUVNILHnlIjAaAE0cgWIUUb1Bz-MSl_W8ZIck_ioqphEeBA2HweQsaZxoCUxYQAvD_BwE)
+	-
