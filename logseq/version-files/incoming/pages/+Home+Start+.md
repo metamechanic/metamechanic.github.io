@@ -1,0 +1,40 @@
+- [[Another M-Theory]]
+- [[Enough For All]]
+- [[Inner Beginner]]
+- [[DiaGnosis]]
+-
+- [[ACIM Theory Training, Transcription & Translation]]
+- [[Wisdom Architecture & Data Science]]
+- [[X-C Communities]]
+-
+- [[Adam's Atlas]]
+	- [[Arguments for Advanced Ancient Civilization]]
+- [[Futures & Foresight Education]]
+	- [[A Textbook for the Futures]]
+	- [[FSIB]]
+	- [[Non-dual futures thinking]]
+-
+- [[X-Science]]
+	- [[The Church of Science]]
+	- [[Macrohistory of Science & Technology]]
+	- [[Blind (Spot) Faith]]
+	- [[The pSilence of Science]]
+-
+- [[FACTs]]
+	- [[FACTs 4CT]]
+	- [[Babies, Bibles and Bathwater]]
+- [[Fresh Alternatives]]
+- [[Global Effort]]
+	- [[MQGEF]]
+	- [[ANEO]]
+	- [[Macrohistory of Energy]]
+-
+- [[The Metamechanic]]
+- [[Metamechanica]]
+-
+- [[The Ultimate Conspiracy]]
+- [[A Scared Society's Fearless Future]]
+- [[Waking Up From Woke]]
+- [[Holonaut]]
+-
+-

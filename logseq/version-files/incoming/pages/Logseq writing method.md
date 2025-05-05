@@ -1,0 +1,12 @@
+- #RRW #[[Metamechanic Mycelium]] #TLDR
+- Tag heavily
+	- update [[Metamechanic ontology]] routinely
+- Write pages as short blocks then 'page embed' or 'block embed' so I can fold them
+- Don't make pages too long
+- Where is the length limit?
+	- Single bullet point/node like Tana is too short
+	- Long-form (like Obsidian) is not the style I'm after
+- Ask myself at each point: what is the smallest block that will make sense by itself?
+- Answer questions
+	- Have a clear research question and sub-questions for each task
+	- Write to these questions

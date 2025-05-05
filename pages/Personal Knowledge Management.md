@@ -1,0 +1,3 @@
+alias:: PKM
+- see also:: [[KM]]
+-

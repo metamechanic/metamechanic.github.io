@@ -1,0 +1,121 @@
+- Person
+	- [[keyThinker]]
+	- [[collaborator]]
+	- [[academic]]
+	- [[author]]
+	- [[independent researcher]]
+	- [[keyActor]]
+	- [[filmmaker]]
+	- [[leader]]
+	- [[activist]]
+	- [[actor]]
+	- [[critic]]
+	- [[keyStakeholder]]
+	- [[mystic]]
+	- [[political figure]]
+	- [[artist]]
+	- [[scientist]]
+		- [[religious scientist]]
+		- [[natural scientist]]
+		- [[computer scientist]]
+		- [[sports scientist]]
+	- [[economist]]
+	- [[computer programmer]]
+	- [[inventor]]
+	- health therapist
+		- [[medical doctor]]
+			- [[psychiatrist]]
+				- [[neuropsychiatrist]]
+			- [[surgeon]]
+				- [[neurosurgeon]]
+		-
+- Place
+	- Region
+		- Country
+			- City
+			- Town
+			- District
+			- State
+	- Lat-Long
+	- map-URL
+- Organisation
+	- [[non-profit]]
+	- [[NGO]]
+	- [[academia]]
+	- [[thinktank]]
+	- [[corporation]]
+	- [[government]]
+	- [[activist]]
+	-
+- [[Resources & References]]
+	- [[book]]
+	- [[article]]
+	- [[blog]]
+	- [[movie]]
+	- [[video]]
+	- [[documentary]]
+	- [[podcast-vodcast]]
+	-
+- Topics - [[metamechanica fields, domains and topics]]
+  collapsed:: true
+	- {{embed [[metamechanica fields, domains and topics]]}}
+- Object
+- myActivityType
+	- [[toWrite]]
+	- [[toBuy]]
+	- [[toRead]]
+	- [[toSummarise]]
+	- [[toMap]]
+	- [[toDesign]]
+	- [[toEdit]]
+	- [[toUpdate]]
+	-
+- Status
+	- [[in-progress]]
+	- [[complete]]
+	- [[backlog]]
+	- [[next]], [[queued]]
+-
+- Tools
+	- [[software]]
+	- [[Artificial Intelligence]]
+	- [[procedure]]
+	- [[method]]
+	- [[thinking tools]]
+		- [[futures thinking tools]]
+			- [[futures thinking frameworks]]
+		- [[conceptual framework]]
+			- [[theory]]
+		- [[critical thinking tools]]
+		- [[creative thinking tools]]
+		- [[mental models]]
+			- [[logical fallacy]]
+			- [[cognitive bias]]
+			- [[heuristic]]
+		- [[principle]]
+- [[My Creations]]
+	- [[MyBlog]]
+	- [[My Books]]
+	- [[MyArticle]]
+	- [[myIdea]]
+	- [[myWebsite]]
+- Argumentation and Reasoning
+	- [[claim]]
+	- [[counter-claim]]
+	- [[evidence]]
+	- [[counter-evidence]]
+	- [[thesis]]
+	- [[hypothesis]]
+	- [[premise]]
+	- [[assertion]]
+	- [[postulate]]
+	- [[assumption]]
+- Patterns
+	- [[metaphor]]
+	- [[model]]
+	- [[framework]]
+	- [[archetype]]
+	- [[abstraction]]
+	- [[generalization]]
+	-
+-

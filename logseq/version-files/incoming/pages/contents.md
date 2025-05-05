@@ -1,0 +1,18 @@
+- [[EFA dashboard]]
+	- [[EFA tasks]]
+- [[AMT dashboard]]
+	- [[AMT tasks]]
+-
+- [[Phase 1 MM tasks table]]
+- [[Phase 1 MM]]
+- [[Guidance To Self]]
+- [[metamechanica tag taxonomy]]
+- [[toWrite]]
+- [[old-notes]] to be incorporate and processed
+	- DOING [[Information mapping tool ideas]]
+	- DOING [[Manifesto for a Postmaterialist Science]]
+	- DOING delete all of the above redundant notes
+- [[MetaMechanic Dashboard]]
+- [[Mission Management]]
+- [[metamechanic workflow]]
+- [[MM 3+ phase evolution]]
