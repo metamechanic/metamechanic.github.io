@@ -1,3 +1,0 @@
--
-- [Start Here | Video | Al Jazeera](https://www.aljazeera.com/program/start-here/)
--

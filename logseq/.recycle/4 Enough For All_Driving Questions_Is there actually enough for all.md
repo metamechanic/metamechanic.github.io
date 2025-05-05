@@ -1,1 +1,0 @@
-	Enough For All hypothesises there is enough of all for all. It seeks to verify this from current data and future projections and report this visually.

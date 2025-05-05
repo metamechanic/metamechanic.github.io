@@ -1,2 +1,0 @@
-- [mindvault.co](Mindvault - A new portal to powerful ideas)
--

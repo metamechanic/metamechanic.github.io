@@ -1,2 +1,0 @@
-- #[[ancient text]] #Sumer
--

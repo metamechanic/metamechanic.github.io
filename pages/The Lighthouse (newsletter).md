@@ -1,4 +1,0 @@
-- newsletter written by #[[Ken Wapnick]] from 1990 - 2014 on ACIM themes and concepts
-- [Foundation for A Course in Miracles - Lighthouse Articles](https://facim.org/online-learning-aids/lighthouse-articles/)
-- #toBuy AUD$100
--

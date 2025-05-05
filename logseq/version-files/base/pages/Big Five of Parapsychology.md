@@ -1,8 +1,0 @@
-- #[[Charles Tart]]
-- [[telepathy]]
-- [[Clairvoyance]]
-- [[precognition]]
-- [[psychokinesis]]
-- [[Psychic Healing]]
--
--

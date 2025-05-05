@@ -1,2 +1,0 @@
-- #old-notes
-- see: [[ANEO]]

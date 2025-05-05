@@ -1,2 +1,0 @@
-- An information portal for accessing alternative ideas, concepts, models, systems and tools in all fields of human endeavour
-- A web portal for accessing alternative ideas, concepts, models, systems and tools in all fields of human endeavour.

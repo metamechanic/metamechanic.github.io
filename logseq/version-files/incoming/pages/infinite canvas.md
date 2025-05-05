@@ -1,4 +1,0 @@
-- [[json canvas]]
-	- [JSON Canvas — An open file format for infinite canvas data.](https://jsoncanvas.org/)
--
--

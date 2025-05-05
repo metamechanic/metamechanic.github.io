@@ -1,1 +1,0 @@
-	So many change-makers. So few make change. What is change? What is real change? What is real? Help these projects not add to the list of samsaric solutions.

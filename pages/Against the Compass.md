@@ -1,3 +1,0 @@
-- #travel #blog #unorthodox #Iran #Iraq #Pakistan #Sudan
-- [Off the Beaten Track Travel Blog - Against The Compass](https://againstthecompass.com/en/)
--

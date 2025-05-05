@@ -1,1 +1,0 @@
-	Major actors, key thinkers, critical influencers, important publications, pivotal events

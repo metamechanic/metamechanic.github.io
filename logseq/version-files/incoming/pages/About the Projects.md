@@ -1,8 +1,0 @@
-- #toWrite #Projects
-- simplifiying complexity to understand better
-- use new knowledge management and presentation tools made available by web and computer technologies
-- cohere disparate data into stories and patterns
-- apply patterns, frameworks,
-- abstraction
--
--

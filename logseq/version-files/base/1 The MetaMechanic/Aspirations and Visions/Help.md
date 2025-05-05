@@ -1,1 +1,0 @@
-	Offer insights. Alleviate suffering. Promote peace and prosperity.

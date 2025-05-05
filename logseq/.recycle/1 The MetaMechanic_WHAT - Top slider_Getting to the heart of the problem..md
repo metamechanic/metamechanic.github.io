@@ -1,2 +1,0 @@
-	Illuminating deep factors and uncovering layers of function. Metamechanic endeavours examine motivation, meaning, method and mechanism, leading ultimately to a coherent, clear message of hope.
-Hearty helpings.

@@ -1,4 +1,0 @@
-- #[[Sir William Matthew Flinders Petrie]] #[[anomalous object]] #Egypt #evidence
-- drill core which seems like it would have been very difficult for ancient Egyptians to do
-- https://youtube.com/shorts/jhlFioufPNs?si=VTBSTJmr47EaT8E3
--

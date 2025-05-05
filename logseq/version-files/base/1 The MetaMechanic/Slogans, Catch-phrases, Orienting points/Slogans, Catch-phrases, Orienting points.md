@@ -1,1 +1,0 @@
-Inspired projects to invigorate the world. Help me realise them.

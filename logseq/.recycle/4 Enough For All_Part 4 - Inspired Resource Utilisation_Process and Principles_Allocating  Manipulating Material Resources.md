@@ -1,1 +1,0 @@
-Allocating & Manipulating Material Resources

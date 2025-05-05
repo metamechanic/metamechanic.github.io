@@ -1,4 +1,0 @@
--
--
-- [Jordan Maxwell : Bible Astrotheology Series | Secret Societies, Truth Behing Religions Part VIII - YouTube](https://www.youtube.com/watch?v=h8lQrKIffb4)
--

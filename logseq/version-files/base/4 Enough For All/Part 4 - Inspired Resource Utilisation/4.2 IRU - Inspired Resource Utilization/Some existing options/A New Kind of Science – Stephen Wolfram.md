@@ -1,1 +1,0 @@
-A New Kind of Science – Stephen Wolfram

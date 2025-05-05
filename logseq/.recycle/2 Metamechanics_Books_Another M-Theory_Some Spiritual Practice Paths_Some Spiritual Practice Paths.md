@@ -1,1 +1,0 @@
-Some Spiritual Practice Paths

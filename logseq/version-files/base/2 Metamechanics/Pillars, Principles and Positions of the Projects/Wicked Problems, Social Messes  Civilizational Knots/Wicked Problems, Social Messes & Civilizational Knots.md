@@ -1,1 +1,0 @@
-	Problems that are defined vaguely, in multiple ways, or not even at all. Recalcitrant conditions, recurring issues, repetitive dramas. Are there common causes, overlapping factors and hidden agents? Metamechanic projects assume there are and go investigating.

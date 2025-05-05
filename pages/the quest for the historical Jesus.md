@@ -1,3 +1,0 @@
-- movement in theology from 18th century
-- applying historical method to Bible and Gospels
--

@@ -1,2 +1,0 @@
-- #prehistory #[[Fresh Alternatives]] #history #megalith #Turkey
--

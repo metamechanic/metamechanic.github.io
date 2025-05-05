@@ -1,3 +1,0 @@
-- #software for writing in LateX #[[integrated development editor]]
-- [TeXstudio - A LaTeX editor](https://www.texstudio.org/#home)
--

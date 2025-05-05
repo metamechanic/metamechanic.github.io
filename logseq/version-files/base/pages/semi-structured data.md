@@ -1,5 +1,0 @@
--
-- what is it exactly?
-- what database software is good for this?
-- [[Neo4j]] ?
--

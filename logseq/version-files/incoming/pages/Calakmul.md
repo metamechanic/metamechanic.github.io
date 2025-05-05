@@ -1,9 +1,0 @@
-alias::
-tags:: [[the Mayans]] 
-place::
-country:: [[Mexico]] 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
-nearest-town:: Chetumal, Campeche, Villahermosa
-map-url::
-
--

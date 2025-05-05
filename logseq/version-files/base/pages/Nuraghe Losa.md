@@ -1,3 +1,0 @@
-- #Sardinia
-- [Home - Nuraghe Losa](https://www.nuraghelosa.net/en/home-eng/)
--

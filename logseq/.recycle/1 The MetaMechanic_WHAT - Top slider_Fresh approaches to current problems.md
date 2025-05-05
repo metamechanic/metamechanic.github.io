@@ -1,3 +1,0 @@
-- Persistent problems require a radical review. Metamechanic projects provide an alternative to stale thought.
-- Metamechanic projects question dominant assertions, prevailing assumptions, and the efficacy of orthodox approaches.
-- Get fresh.

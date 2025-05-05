@@ -1,4 +1,0 @@
-alias:: QM, quantum physics
-
--
--

@@ -1,4 +1,0 @@
-tags:: #myPosition #[[ancient civilization]]
-
--
--

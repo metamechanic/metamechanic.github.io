@@ -1,3 +1,0 @@
-- #software #KMI
-- [[Knowledge Media Intitute]]
--

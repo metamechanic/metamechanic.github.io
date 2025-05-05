@@ -1,4 +1,0 @@
--
-- Dept. of Anesthesiology, Albany Medical College, Albany, NY
-- [The Heart and Circulation | SpringerLink](https://link.springer.com/book/10.1007/978-1-4471-5277-4?noAccess=true)
--

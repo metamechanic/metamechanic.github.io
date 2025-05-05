@@ -1,2 +1,0 @@
-- #toWrite #MyArticle #FF-ed #introductory #[[futures & foresight]]
--

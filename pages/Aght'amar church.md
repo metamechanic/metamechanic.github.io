@@ -1,3 +1,0 @@
--
-- [Armenian Architecture - VirtualANI - Aght'amar: Church of the Holy Cross](http://virtualani.org/aghtamar/index.htm)
--

@@ -1,1 +1,0 @@
-The scientific and religious nature of spirituality

@@ -1,2 +1,0 @@
-- Wisdom, Knowledge, Information, Data
--

@@ -1,3 +1,0 @@
-- #research #EFA #comparator #[[data source]]
-- [Global Flourishing Study](https://www.cos.io/gfs)
--

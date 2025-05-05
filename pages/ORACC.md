@@ -1,3 +1,0 @@
-- #library #digital #cuneiform #[[ancient text]] #Sumer #Babylon #Akkad
-- [Oracc: The Open Richly Annotated Cuneiform Corpus](https://oracc.museum.upenn.edu/)
--

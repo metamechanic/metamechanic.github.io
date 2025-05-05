@@ -1,1 +1,0 @@
-Group and categorize. Orient the energy futures debate for clearer argumentation.

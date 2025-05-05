@@ -1,1 +1,0 @@
-	Orienting experts and laypeople alike in the journey towards the energy future

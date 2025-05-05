@@ -1,3 +1,0 @@
--
-- [Watkins’ Spiritual 100 List for 2023 - Watkins MIND BODY SPIRIT Magazine](https://www.watkinsmagazine.com/watkins-spiritual-100-list-for-2023)
--

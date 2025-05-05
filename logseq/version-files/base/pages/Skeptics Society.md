@@ -1,4 +1,0 @@
--
-- [The Skeptics Society & Skeptic magazine](https://www.skeptic.com/)
-- [[Michael Shermer]]
--

@@ -1,3 +1,0 @@
--
-- #Japan tale of #UFO encounter
--

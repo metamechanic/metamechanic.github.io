@@ -1,1 +1,0 @@
-An interactive online knowledge community built by participants.

@@ -1,5 +1,0 @@
-- #book #toWrite #MetaMechanic
-- Models of science beyond reductionist, material fundamentalism
-- Bringing authentic skepticism to scientific skepticism
-- Science 2.0
--

@@ -1,1 +1,0 @@
-	Ask questions. Question orthodoxy. Question assumptions. Question the question. Educate ourselves. 

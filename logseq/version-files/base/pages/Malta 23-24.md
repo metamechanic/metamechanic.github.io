@@ -1,4 +1,0 @@
--
-- Flights
-	- [Cheap flights from Brisbane to Valletta at Skyscanner](https://www.skyscanner.com.au/transport/flights/bne/mla/231215/240112/?adultsv2=1&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1)
-	-

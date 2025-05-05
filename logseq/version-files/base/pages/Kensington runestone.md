@@ -1,4 +1,0 @@
-- #[[Templar Knights]] #pre-Columbus
-- #toWatch : [[American Runestone - A Viking Mystery]]
--
--

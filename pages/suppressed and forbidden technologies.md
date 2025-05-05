@@ -1,3 +1,0 @@
--
-- [Forbidden Technologies, Their Inventors Suppressed - YouTube](https://www.youtube.com/watch?v=o3HZAXusHAI) #toWatch #FRESH #FACTs #[[X-Science]]
--

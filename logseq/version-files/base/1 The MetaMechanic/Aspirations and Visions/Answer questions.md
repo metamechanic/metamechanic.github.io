@@ -1,1 +1,0 @@
-	I’m curious. I wonder. I want to know some stuff! I need other people to teach me, and the world, with their expertise and resources.

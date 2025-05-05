@@ -1,2 +1,0 @@
-- #[[minimum viable product]]
-- [[Metamechanic Portfolio]]

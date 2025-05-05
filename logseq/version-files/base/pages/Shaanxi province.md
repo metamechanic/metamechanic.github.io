@@ -1,3 +1,0 @@
--
-- home to many of [[pyramids of China]]
--

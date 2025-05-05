@@ -1,4 +1,0 @@
-- #storytelling #tools
-- set of cards to prompt, stimulate and guide story-telling for effective presentations and thinking activities for workshops
-- [Pip Decks | Career Confidence Cards](https://pipdecks.com/)
--

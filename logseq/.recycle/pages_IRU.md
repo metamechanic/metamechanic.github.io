@@ -1,3 +1,0 @@
-alias:: Inspired Resource Utilization
-
--

@@ -1,3 +1,0 @@
-- what are the markings on the walls and ceiling?
-	- [[wall markings at ancient sites]]
-	-

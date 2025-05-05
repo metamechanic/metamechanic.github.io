@@ -1,1 +1,0 @@
-Harnessing and Applying Mental Resources

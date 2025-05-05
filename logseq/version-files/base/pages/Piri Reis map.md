@@ -1,2 +1,0 @@
-- #artefact #Turkey #Istanbul #map
--

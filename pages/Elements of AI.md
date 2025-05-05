@@ -1,2 +1,0 @@
-- #course #online #[[Artificial Intelligence]]
--

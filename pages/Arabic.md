@@ -1,5 +1,0 @@
-- #[[LOTE study]]
--
-- [[Arabic dialects compared]]
-	- [Arabic Dialects Compared: Maghrebi, Egyptian, Levantine, Hejazi, Gulf, and MSA](https://discoverdiscomfort.com/arabic-dialects-maghrebi-egyptian-levantine-gulf-hejazi-msa/)
--

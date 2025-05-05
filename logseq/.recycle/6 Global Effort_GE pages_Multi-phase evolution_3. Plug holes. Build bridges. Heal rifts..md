@@ -1,1 +1,0 @@
-Mediate the conflict resolution amongst conflicting energy futures and their stakeholders.

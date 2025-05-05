@@ -1,3 +1,0 @@
-alias:: futures thinking tool
-
--

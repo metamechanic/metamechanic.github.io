@@ -1,4 +1,0 @@
--
-- purported evidence supporting orthodox story of construction of pyramids
-- [The World's Oldest Papyrus and What It Can Tell Us About the Great Pyramids | History| Smithsonian Magazine](https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/)
--

@@ -1,3 +1,0 @@
-- #myths #Japan
-- Japan's oldest chronicle, 712 AD
--

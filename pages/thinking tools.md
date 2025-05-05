@@ -1,7 +1,0 @@
--
-- [[creative thinking tools]]
-- [[futures thinking tools]]
-- [[critical thinking tools]]
-- [[mental models]]
-- [[logical fallacies]]
--

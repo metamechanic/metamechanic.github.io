@@ -1,1 +1,0 @@
-Proposals, plans and predictions. Stakeholders, thinkers, agents. Technologies, methods, mechanisms.

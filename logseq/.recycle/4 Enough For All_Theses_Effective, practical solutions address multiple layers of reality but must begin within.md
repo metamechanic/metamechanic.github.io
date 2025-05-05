@@ -1,1 +1,0 @@
-Effective, practical solutions address multiple layers of reality but must begin within.

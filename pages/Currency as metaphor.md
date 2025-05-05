@@ -1,4 +1,0 @@
-- #metaphor #MetaMechanic
-- "two sides of the same coin" vs different coins vs different currencies
-- digital vs paper vs physical (salt, shells, gold)
--

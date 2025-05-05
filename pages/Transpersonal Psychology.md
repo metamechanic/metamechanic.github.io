@@ -1,7 +1,0 @@
--
-- [[Frances E Vaughn]],
-- [[Roger Walsh]]
-- [[Ken Wilber]]
-- [[Stanislav Grof]]
-- [[Carl Jung]]
--

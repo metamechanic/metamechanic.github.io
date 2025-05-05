@@ -1,1 +1,0 @@
-Yesterday’s revolutionary is today’s leader is tomorrow’s tyrant. “Truth” regularly proves untrue or incomplete. Useful tools can become outdated.

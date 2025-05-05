@@ -1,3 +1,0 @@
--
-- Dept. of Anesthesiology and Physiology, Albany Medical College, NY
--

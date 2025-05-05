@@ -1,3 +1,0 @@
--
-- [Digital Self-Actualization - John's Digital Galaxy 🌌](https://notes.johnmavrick.com/My+Resources/Digital+Self-Actualization#How)
--

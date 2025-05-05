@@ -1,1 +1,0 @@
-Page outlining Global Effort.

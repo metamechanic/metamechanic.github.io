@@ -1,3 +1,0 @@
--
-- [Ghost: Turn your audience into a business](https://ghost.org/)
--

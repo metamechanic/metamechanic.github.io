@@ -1,1 +1,0 @@
-- map of how my ideas and projects

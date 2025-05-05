@@ -1,1 +1,0 @@
-	My inabilities, shortcomings, deficits and need to collaborate, however I retain a creative curation role. Links to 6 C's section. Emergent autonomy.

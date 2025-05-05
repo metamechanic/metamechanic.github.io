@@ -1,8 +1,0 @@
-alias:: CLA
-tags:: tool, framework, litany, #[[systems thinking]] #culture #myth #metaphor #metamyth 
-domain::
-people:: [[Sohail Inayatullah]] 
-related-to::
-project:: [[FF-ed]] 
-public:: true
--

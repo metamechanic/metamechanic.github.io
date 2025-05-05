@@ -1,2 +1,0 @@
-- #software #app #PKM #DiaGnosis
--

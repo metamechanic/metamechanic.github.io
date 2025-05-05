@@ -1,7 +1,0 @@
--
-- My logseq set-up
-	- Theme
-	- Plug-ins
-		-
-	- Feature requests
-	-

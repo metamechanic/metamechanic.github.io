@@ -1,3 +1,0 @@
-- a traveller in, through the [[noosphere]]
-- see also:: #zengineer
--

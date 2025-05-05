@@ -1,3 +1,0 @@
-- [Homepage - Club of Rome](https://www.clubofrome.org/)
-- #futures #[[Fresh Alternatives]] #economics #[[Limits to Growth]]
--

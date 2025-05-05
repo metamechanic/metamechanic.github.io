@@ -1,4 +1,0 @@
-alias:: RRW
-- [[Logseq writing method]]
-	- {{embed [[Logseq writing method]]}}
--

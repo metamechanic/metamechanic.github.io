@@ -1,1 +1,0 @@
-God as Source/infinite abundance/infinte dimension

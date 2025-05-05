@@ -1,3 +1,0 @@
-- #software-app #[[knowledge management]] #collaboration #[[visual thinking]]
-- [Kosmik • For All Mindkind](https://www.kosmik.app/)
--

@@ -1,3 +1,0 @@
-- #Japan #megalith
-- [Strange and Unusual Rock Formations | Gozaisho Ropeway](https://www.gozaisho.co.jp/en/what-to-see/strange-and-unusual-rock-formations/)
--

@@ -1,3 +1,0 @@
--
-- [Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures by Merlin Sheldrake](https://www.goodreads.com/book/show/52668915-entangled-life)
--

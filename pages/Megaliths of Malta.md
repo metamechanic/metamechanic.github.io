@@ -1,3 +1,0 @@
--
-- https://www.megalithomania.co.uk/maltatour.html
--

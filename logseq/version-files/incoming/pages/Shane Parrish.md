@@ -1,2 +1,0 @@
-- #toFind book about mental models in my #Kindle
--

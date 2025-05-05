@@ -1,3 +1,0 @@
--
-- [Gifu Castle - Gifu Convention and Visitors Bureau](https://www.gifucvb.or.jp/en/01_sightseeing/01_02.html)
--

@@ -1,1 +1,0 @@
-	These projects need help: investments of expertise, insight, funding, passion, and compassion. Perhaps they are worthy of you? Learn more.

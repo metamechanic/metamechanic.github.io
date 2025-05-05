@@ -1,3 +1,0 @@
-- #software-app #ontology #[[semantic web]] #AI
-- [PoolParty Semantic Suite - Your Complete Semantic Platform](https://www.poolparty.biz/)
--

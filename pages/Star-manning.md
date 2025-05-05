@@ -1,4 +1,0 @@
-- Loftiest response to [[straw-man argument]]
-- Even superior to [[steel-manning]]
-- source: https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/
--

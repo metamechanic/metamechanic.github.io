@@ -1,1 +1,0 @@
-	How has the vision of the energy future changed over time?

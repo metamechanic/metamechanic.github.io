@@ -1,1 +1,0 @@
-Violent Non-violent resistance

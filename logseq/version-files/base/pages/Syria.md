@@ -1,2 +1,0 @@
-- #nation #[[Middle East]]
--

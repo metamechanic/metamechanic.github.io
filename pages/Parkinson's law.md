@@ -1,3 +1,0 @@
--
-- Work expands to fill the time available for its completion.
-- Cyril northcote parkinson

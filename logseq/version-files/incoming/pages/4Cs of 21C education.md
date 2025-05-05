@@ -1,5 +1,0 @@
-- Critical thinking
-- Creativity
-- Collaboration
-- Compassion, coding...??
--

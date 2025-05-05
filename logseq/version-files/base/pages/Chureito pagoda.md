@@ -1,4 +1,0 @@
--
-- [Visiting Chureito Pagoda: Access and Travel Guide - Japan Rail Pass](https://www.jrailpass.com/blog/chureito-pagoda-travel-guide)
--
--

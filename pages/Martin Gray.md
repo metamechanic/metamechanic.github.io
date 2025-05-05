@@ -1,3 +1,0 @@
-- #collaborator ? on #[[Fresh Alternatives]] with his [[sacredsites.com]] work, possibly also on #[[Inner Beginner]] ?
-- #pilgrimage
--

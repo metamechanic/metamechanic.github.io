@@ -1,4 +1,0 @@
-- #website #[[Wicked Problems]] #[[X-C Communities]] #exemplar #DiaGnosis
--
-- [Global Sensemaking - Tools for Dialogue and Deliberation on Wicked Problems](http://globalsensemaking.net/)
--

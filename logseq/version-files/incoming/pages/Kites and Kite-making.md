@@ -1,2 +1,0 @@
--
-- [[MCSHS Killer Kite Komp]]

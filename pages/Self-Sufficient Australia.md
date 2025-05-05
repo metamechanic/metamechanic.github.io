@@ -1,3 +1,0 @@
-- #self-sufficiency #homesteading #renewableEnergy #off-grid
-- [Self Sufficient Australia](https://www.selfsufficientaus.com.au/)
--

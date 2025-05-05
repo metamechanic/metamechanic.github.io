@@ -1,1 +1,0 @@
-Distinguish from oil futures, coal futures etc.

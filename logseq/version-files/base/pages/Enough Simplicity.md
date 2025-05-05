@@ -1,5 +1,0 @@
-- #EFAsection #simplicity #complexity #[[wicked problems]]
-- balancing complexity and simplicity
-- new models which simplify complex phenomena
-	- [[Ptolemy's epicycles]] -> heliocentric solar system
-- complexity is of the ego

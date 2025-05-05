@@ -1,4 +1,0 @@
-- alias: CE-5, Close Encounters of the Fifth Kind
-- ![Contact.pdf](../assets/Contact_1641441508996_0.pdf)
-- see also:: [[Close Encounters typology]]
--

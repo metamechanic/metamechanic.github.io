@@ -1,4 +1,0 @@
--
-- Udemy WebDev Bootcamp
-- Coding tutorial - http://learnhowtoprogram.com #ICT
-- [Learn R, Python & Data Science Online | DataCamp](https://www.datacamp.com/)

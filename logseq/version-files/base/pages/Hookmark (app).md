@@ -1,3 +1,0 @@
-- #[[Software, Apps & Web Services I may use & learn]]
-- [Getting Started – Hookmark](https://hookproductivity.com/help/general/getting-started/)
--

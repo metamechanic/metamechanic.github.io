@@ -1,3 +1,0 @@
-- #toStudy #course #[[Obsidian (app)]]
-- [Home - The Effortless Academic](https://effortlessacademic.com/)
--

@@ -1,2 +1,0 @@
-	Metamechanic projects aim to distill, discover, distinguish and distribute genuine alternatives. Different sides of the same coin have no more purchasing power. New currencies are needed.
-Make an offer.

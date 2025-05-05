@@ -1,1 +1,0 @@
-	Metamechanic projects typically involve questioning what constitutes “innovation” and “ingenuity”. The hypothesis: true innovation comes from inspiration and inner-vation.

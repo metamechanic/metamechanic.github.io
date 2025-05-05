@@ -1,4 +1,0 @@
-- [[Michael Salla]]
-	- [Exopolitics » Political Implications of Extraterrestrial LIfe](https://exopolitics.org/)
-- [EXOPOLITICS: Politics, Government, and Law in the Universe](https://exopolitics.blogs.com/)
--

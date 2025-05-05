@@ -1,3 +1,0 @@
-- lost civilization in #China, near [[Guanghan]]
-- 25:00 minute mark in [Pre-Historic Mega Structures In China & Unexcavated Pyramids - YouTube](https://www.youtube.com/watch?v=hZi4sIMhad8)
--

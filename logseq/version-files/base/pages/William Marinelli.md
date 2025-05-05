@@ -1,3 +1,0 @@
--
-- Hennipen County Medical Center and Dept. of Medicine, University of Minnesota, MN
--

@@ -1,4 +1,0 @@
--
-- [Iran - Against the Compass](https://againstthecompass.com/en/country/iran/)
-- [Tips and how to travel to Iran in 2024 - Against the Compass](https://againstthecompass.com/en/travel-to-iran-ultimate-survival-guide/)
--

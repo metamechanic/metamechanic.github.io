@@ -1,2 +1,0 @@
-similar-to::  #[[Free Energy]]
--

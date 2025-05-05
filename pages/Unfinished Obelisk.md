@@ -1,2 +1,0 @@
-- #megalith found at [[Aswan quarry]]
--

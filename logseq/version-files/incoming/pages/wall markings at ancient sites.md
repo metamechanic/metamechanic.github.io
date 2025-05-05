@@ -1,4 +1,0 @@
--
-- [[Bazda Caves]]
-- Van castle
-- [[Longyou Caves]]

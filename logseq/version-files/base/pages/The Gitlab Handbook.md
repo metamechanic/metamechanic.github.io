@@ -1,3 +1,0 @@
--
-- #exemplar and/or #inspiration for [[X-C Communities]]
--

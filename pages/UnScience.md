@@ -1,4 +1,0 @@
--
-- define "unscientific"
-- contrast vs "pseudo-scientific"
--

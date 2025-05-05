@@ -1,3 +1,0 @@
-- #[[Adam's Atlas]] #[[Arguments for Advanced Ancient Civilization]] #Egypt
-- pulley-like tool for moving megalliths?
--

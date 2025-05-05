@@ -1,1 +1,0 @@
-	Love as the ultimate innovation. Kindness as the killer app. Real innovation comes from changing minds and healing hearts.

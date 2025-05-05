@@ -1,5 +1,0 @@
--
-- [Colorado School of Energy Studies](https://www.energyschool.com/)
--
--
--

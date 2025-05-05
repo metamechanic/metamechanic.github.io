@@ -1,6 +1,0 @@
-- #China #anomaly
-- possible example of [[ancient technology]]
-- near Mount Baigong, near Lake Toson or Lake Tuosu and Lake Keluke
--
--
--

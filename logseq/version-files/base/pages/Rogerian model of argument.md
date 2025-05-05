@@ -1,7 +1,0 @@
-- #argumentation #[[argument maps]]
--
-- Introduce the problem
-- Antithesis - Acknowledge other side
-- Thesis - Present your side
-- Synthesis - bring two sides together
-- Conclusion - remind of value of balanced perspective

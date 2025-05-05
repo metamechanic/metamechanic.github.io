@@ -1,5 +1,0 @@
--
--
-- [Perge | Turquoise Coast, Turkey | Attractions - Lonely Planet](https://www.lonelyplanet.com/turkey/around-antalya/attractions/perge/a/poi-sig/1250005/1319738)
--
--

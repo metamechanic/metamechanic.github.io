@@ -1,1 +1,0 @@
-	If supply is plentiful and production ample, why don’t many seem to 

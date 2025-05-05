@@ -1,1 +1,0 @@
-A forum to debate or argue for truth or metaphysical superiority. Instead, it will offer general comparisons of truth-tools.

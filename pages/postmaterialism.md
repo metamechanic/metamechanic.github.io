@@ -1,3 +1,0 @@
-alias:: post-materialism, postmaterialist
-
--

@@ -1,3 +1,0 @@
--
-- [Summer_Solstice_Tour_2024.pdf](https://piramidasunca.ba/images/banners/Summer_Solstice_Tour_2024.pdf?27082023)
--

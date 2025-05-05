@@ -1,4 +1,0 @@
--
-- Theories
-- Concepts
-- Frameworks

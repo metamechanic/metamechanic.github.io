@@ -1,3 +1,0 @@
-- #megalith at #Baalbek
-- shows tool scarring similar to #[[Yangshan Quarry]] and #Petra
--

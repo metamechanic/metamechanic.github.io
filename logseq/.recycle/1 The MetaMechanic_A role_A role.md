@@ -1,1 +1,0 @@
-	My foreseen role in the projects is one of creator and curator, rather than owner and sole-operator.

@@ -1,4 +1,0 @@
-- Focus on issues, which includes data plus other resources
-	- media
-	- commentary
-	- organizations

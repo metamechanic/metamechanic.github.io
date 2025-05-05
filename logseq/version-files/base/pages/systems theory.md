@@ -1,3 +1,0 @@
-see-also:: [[systems thinking]]
-
--

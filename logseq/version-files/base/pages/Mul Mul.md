@@ -1,4 +1,0 @@
-- Sumerian for #Pleiades
-- see Billy Carson https://www.youtube.com/shorts/woXMnFe9OKA
-- #Annunaki #[[star maps]]
--

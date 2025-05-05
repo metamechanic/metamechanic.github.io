@@ -1,3 +1,0 @@
--
-- Rudolf Steiner Research Center, Royal Oak, MI
--

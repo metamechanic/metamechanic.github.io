@@ -1,1 +1,0 @@
-Spiritual development is the process of removing obstacles to including 

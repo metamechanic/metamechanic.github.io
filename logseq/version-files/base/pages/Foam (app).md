@@ -1,3 +1,0 @@
-- #app #software #[[networked thinking]]
-- [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
--

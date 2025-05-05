@@ -1,1 +1,0 @@
-The Nature of GUSTO (God-Universe-Space-Time Organisation)
